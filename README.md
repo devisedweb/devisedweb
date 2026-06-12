@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Hani 👋
 
-<!--
-**devisedweb/devisedweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer in Training.
 
-Here are some ideas to get you started:
+I'm currently learning web development through hands-on projects and structured courses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Responsive Web Design
+- Figma to HTML/CSS Conversion
+
+## Currently Learning
+
+- Intermediate HTML & CSS (The Odin Project)
+- JavaScript (The Odin Project)
+
+- ## Goals
+
+- Build real-world frontend projects
+- Strengthen JavaScript fundamentals
