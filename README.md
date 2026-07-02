@@ -15,8 +15,7 @@ I'm currently learning web development through hands-on projects and structured 
 
 ## Currently Learning
 
-- Intermediate HTML & CSS (The Odin Project)
-- JavaScript (The Odin Project)
+- JavaScript (Scrimba)
 
 - ## Goals
 
