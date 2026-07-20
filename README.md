@@ -15,7 +15,7 @@ I'm currently learning web development through hands-on projects and structured 
 
 ## Currently Learning
 
-- JavaScript (Scrimba)
+- JavaScript
 
 - ## Goals
 
